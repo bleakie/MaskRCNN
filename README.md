@@ -8,4 +8,4 @@ The training data is already in it, and you can try to train.
 
 You can read this: https://blog.csdn.net/chenmoran0928/article/details/79999073
 
-！[result](https://github.com/bleakie/MaskRCNN/blob/master/train_data/pic/1.jpg)
+![result](MaskRCNN/result/1.png)
